@@ -1,0 +1,13 @@
+The end to end process
+
+- Get the website working locally (HTML, CSS, JS, DJANGO).
+
+- AWS EC2 - Set up a server for hosting our website. Use git and Linux to upload our website.
+
+- Use Linux to configure our Django setings for browser Access. Configure AWS security. Website live!
+
+- Use Gunicorn and Nginx to keep the website running by itself.
+
+- Use google domains * to purchase a URL and make our website live with a URL.
+
+*Similar services available
